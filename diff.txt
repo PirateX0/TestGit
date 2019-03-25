@@ -1,0 +1,16 @@
+diff --git a/dalong.txt b/dalong.txt
+new file mode 100644
+index 0000000..ed4df3c
+--- /dev/null
++++ b/dalong.txt
+@@ -0,0 +1 @@
++666
+\ No newline at end of file
+diff --git a/dalongMaster.txt b/dalongMaster.txt
+new file mode 100644
+index 0000000..9d07aa0
+--- /dev/null
++++ b/dalongMaster.txt
+@@ -0,0 +1 @@
++111
+\ No newline at end of file
